@@ -10,3 +10,8 @@ Python学习的时候，练习代码
 ### PrintTest.py
 输出基本的变量
 
+### InputTest.py
+练习基本的输入-input
+
+### BMI-Practice
+练习一个输入输出例子，BMI计算

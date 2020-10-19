@@ -7,4 +7,5 @@ if __name__ == '__main__':
     print(a, b, 'Come on')
     print(chr(97))
     print(chr(65))
+    print("a 与 A 大", ord('a') - ord('A'))
 
